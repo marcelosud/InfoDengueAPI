@@ -34,18 +34,16 @@ Acesse a documentação da API no navegador:
 
 https://localhost:7162/swagger
 
-o O End-Point "/api/Relatorio/consulta-externa" é o end-poin principal que faz a consulta na API (INFODENGUE: https://info.dengue.mat.br/services/api)
+-  O End-Point "/api/Relatorio/consulta-externa" é o end-poin principal que faz a consulta na API (INFODENGUE: https://info.dengue.mat.br/services/api)
 
-o Os outros end-points do projeto realizam as outras funcionalidades:
+-  Os outros end-points do projeto realizam as outras funcionalidades:
 
 Relatórios:
-o Listar todos os dados epidemiológicos do município do Rio de Janeiro e
-São Paulo;
-o Listar os dados epidemiológicos dos municípios pelo código IBGE;
-o Listar o total de casos epidemiológicos dos municípios do Rio de Janeiro
-e São Paulo;
-o Listar o total de casos epidemiológicos dos municípios por arbovirose;
-o Listar os solicitantes;
+-  Listar todos os dados epidemiológicos do município do Rio de Janeiro e São Paulo;
+-  Listar os dados epidemiológicos dos municípios pelo código IBGE;
+-  Listar o total de casos epidemiológicos dos municípios do Rio de Janeiro e São Paulo;
+-  Listar o total de casos epidemiológicos dos municípios por arbovirose;
+-  Listar os solicitantes;
 
 
 🗄️ Banco de Dados
