@@ -51,3 +51,5 @@ O arquivo BancoDados\Scripts\InfoDengueDB.sql contém o dump do banco de dados S
 
 Outra opção é a restauração do Backup do Banco de Dados.
 O arquivo BancoDados\Scripts\InfoDengueDB.bak contém o backup do banco de dados para ser utilizado para o dump do banco de dados SQL Server utilizado no projeto.
+
+Alterar o arquivo "\InfoDengueAPI\InfoDengueAPI.WebAPI\appsettings.json" que contém a "ConnectionStrings" para a conexeção de servidor mais adequada para o ambiente onde será realizado os testes e validações.
